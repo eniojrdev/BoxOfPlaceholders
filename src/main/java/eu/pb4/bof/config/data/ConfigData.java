@@ -1,8 +1,5 @@
 package eu.pb4.bof.config.data;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class ConfigData {
     public int CONFIG_VERSION_DONT_TOUCH_THIS = 1;
     public String gomlNoClaimInfo = "<gray><italic>Wilderness";
